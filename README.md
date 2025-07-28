@@ -29,7 +29,7 @@
 ## Computer Network (컴퓨터네트워크)
 
 ### Reference
-- [전신]([https://github.com/gyoogle/tech-interview-for-developer](https://github.com/java-two-people-get-in/Dododok-CS-study))
+- [Dododok CS Study]([https://github.com/gyoogle/tech-interview-for-developer](https://github.com/java-two-people-get-in/Dododok-CS-study)
 - [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
 - [Basic Knowledge of Computer Science](https://github.com/Seogeurim/CS-study)
 - 면접을 위한 CS 전공지식 노트
